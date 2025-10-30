@@ -24,4 +24,5 @@ Key Highlights
 - Connected Power BI via DirectQuery for real-time visualization.
 
 Dashboard Preview
-🖼 (Power BI dashboard image will be added later.)
+![Weather Dashboard](WeatherDashboard.png)
+>*Power BI dashboard showing real-time temperature and humidity insights across Nigerian cities*
