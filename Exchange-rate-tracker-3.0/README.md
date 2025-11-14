@@ -21,6 +21,7 @@ Power BI	Visualization
 ExchangeRate-API	Live exchange rate data
 
 📂 Project Files
+
 File	Description
 
 exchange3_0_etl.py	Main ETL script (fetch, transform, load, resume logic)
